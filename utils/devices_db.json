@@ -1,0 +1,21 @@
+{
+  "marcas": {
+    "logitech": "Logitech",
+    "sony": "Sony",
+    "jbl": "JBL",
+    "xbox": "Xbox",
+    "microsoft": "Microsoft",
+    "nintendo": "Nintendo",
+    "positivo": "Positivo",
+    "razer": "Razer",
+    "corsair": "Corsair",
+    "hyperx": "HyperX",
+    "realtek": "Realtek (Placa-mãe)"
+  },
+  "termos_ignorar": [
+    "PS/2", 
+    "Proxy de serviço", 
+    "Dispositivo de sistema", 
+    "Controlador"
+  ]
+}
